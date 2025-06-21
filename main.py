@@ -11,7 +11,7 @@ SESSION_STRING = "BQEy_cEAMmE5spfKcA0nGfs19JcvfjJg7Hwb7j8DsIEnmz-l-Nf7q6SxBbkGGC
 MONGO_URI = "mongodb+srv://swami2006:lptXBAFHlyS7uHvT@cluster0.iapxnlf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 MAIN_GROUP_ID = -1002340308104
-FORWARD_CHANNEL_ID = -1002260368357
+FORWARD_CHANNEL_ID = None
 OG_CAPTIONS = [
     "🔥 ʟᴏᴏᴋ ᴀɴ ᴏɢ ᴘʟᴀʏᴇʀ ᴊᴜꜱᴛ ᴀʀʀɪᴠᴇᴅ ᴄᴏʟʟᴇᴄᴛ ʜɪᴍ/Her ᴜꜱɪɴɢ /ᴄᴏʟʟᴇᴄᴛ ɴᴀᴍᴇ",
     "🔥 ʟᴏᴏᴋ ᴀɴ ᴏɢ ᴀᴛʜʟᴇᴛᴇ ᴊᴜꜱᴛ ᴀʀʀɪᴠᴇᴅ ᴄᴏʟʟᴇᴄᴛ ʜɪᴍ/Her ᴜꜱɪɴɢ /ᴄᴏʟʟᴇᴄᴛ ɴᴀᴍᴇ",
