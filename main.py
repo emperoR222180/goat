@@ -88,7 +88,7 @@ async def main_group_collect(c, m):
                     player_cache[file_id] = {"name": player_name}
                 else:
                     return
-            await asyncio.sleep(random.uniform(1, 2))
+            await asyncio.sleep(random.uniform(0.8, 1.3))
             sent_message = await bot.send_message(MAIN_GROUP_ID, f"/collect {player_name}")
             last_collected_file_id = file_id
             await asyncio.sleep(1)
