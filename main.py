@@ -69,8 +69,8 @@ async def main_group_collect(c, m):
                 logging.info("Collection started in main group via trigger command.")
                 return
             return
-        # Only scan photos from user 7795661257 if collection is ON
-        if m.from_user and m.from_user.id == 7795661257 and m.photo:
+        # Only scan photos from user 7743000714 if collection is ON
+        if m.from_user and m.from_user.id == 7743000714 and m.photo:
             if not collection_status:
                 return
             if not m.caption or m.caption.strip() not in OG_CAPTIONS:
